@@ -1,0 +1,18 @@
+# Private notes and discussions. Never published.
+/private/
+
+# Confidential data. Provided to editors and reviewers on request only.
+# Only the README that describes the data is tracked.
+/data/*
+!/data/README.md
+
+# Source copies of the conference paper. Kept out until the reuse terms
+# of the proceedings publisher are confirmed.
+/papers/
+
+# Build output
+/target/
+
+# Local environment and system files
+.DS_Store
+.claude/
